@@ -1,7 +1,6 @@
 #include "GameScene.h"
 #include "MenuScene.h"
 #include "Utils/AnimatedSprite.h"
-#include "Utils/AgentTest.h"
 
 USING_NS_CC;
 
